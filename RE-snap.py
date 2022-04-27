@@ -68,3 +68,4 @@ if __name__ == '__main__':
 """)
 	tr=input(f"{bloFT}┌──(joker㉿root)-[{wit}~Snapchat.py{bloFT}]\n└─${wit} Enter Target name :{yel} ")
 	SNAPCHAT_REPORT(tr)
+	
