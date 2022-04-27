@@ -41,3 +41,4 @@ python3 RE-snap.py
 By JOKER | <a class="" href="https://www.snapchat.com/add/j0k.y?">Snapchat 👻</a> | <a class="" href="https://instagram.com/221298?utm_medium=copy_link">instagram 🔷</a>
 -
 seee
+![Screenshot_٢٠٢٢٠٣٢٨-٠٧٥٠٣٣](https://user-images.githubusercontent.com/104483430/165451577-e9208796-e71a-4d89-b8ff-bf87016f6897.png)
